@@ -1,0 +1,5 @@
+export const WORKERS_LOADING = "WORKERS_LOADING";
+export const WORKERS_CREATE = "WORKERS_CREATE";
+export const WORKERS_LOAD = "WORKERS_LOAD";
+export const WORKER_LOAD = "WORKER_LOAD";
+export const WORKERS_FAIL = "WORKERS_FAIL";
